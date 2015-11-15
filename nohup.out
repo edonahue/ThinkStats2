@@ -1,0 +1,2 @@
+[E 02:34:06.485 NotebookApp] Support for specifying --pylab on the command line has been removed.
+[E 02:34:06.485 NotebookApp] Please use `%pylab inline` or `%matplotlib inline` in the notebook itself.
